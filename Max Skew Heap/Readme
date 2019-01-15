@@ -1,0 +1,11 @@
+The goal of this project is to implement the Max-Skew Heap using the pointer based implementation. The program reads the 
+integer numbers from a data file (data.txt) and inserts each number to the Max-Skew Heap. After reading the data from the file
+the program displays an application interface with the following options:
+ 
+ 1- Insert (insert a user entered element to the skew heap)
+ 2- DeleteMax (deletes the maximum element from the skew heap)
+ 3- PreOrder (prints the elements of the skew heap using preorder traversal)
+ 4- InOrder (prints the elements of the skew heap using inorder traversal)
+ 5- PostOrder (prints the elements of the skew heap using postorder traversal)
+ 6- LevelOrder (prints the elementos the skew heap using Levelorder traversal)
+ 7- Exit
