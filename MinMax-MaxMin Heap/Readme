@@ -1,0 +1,14 @@
+The goal of this project is to implement the minmax heap and the maxmin heap using the array based implementation. The program
+reads integer numbers from a data file (data.txt) and inserts each number into a MinMax heap (and MaxMin heap). 
+The bottom-up approach is used to insert elements to the Minmax heap and the topdown approach is used to insert elements to the 
+Maxmin heap. After insertion of the elements the an application interace will be displayed with the following options:
+1- Insert (insert an element to the minmax (maxmin) heap
+2- DeletMin (deletes the minimum element in the minmax (maxmin) heap)
+3- findMin (prints the minimum element in the minmax (maxmin) heap)
+4- findMax (prints the maximum element in the minmax (maxmin) heap)
+5- deleteMax (deletes the maximum element in the minmax (maxmin) heap)
+6- LevelOrder (should print all the elements of the minmax (maxmin) heap using level order traversal each level in a separate line)
+7- Exit
+
+To run the program execute the following command in the terminal after you make the file
+./output (minmax or maxmin)
