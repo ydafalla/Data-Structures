@@ -1,7 +1,7 @@
 The goal of this project to to implement the binary serach tree. The program reads integer numbers from a given data file
-(data.txt) one at a time and inserts them into the binary serach tree. The binary search tree is implemented using children
-pointer implementation. After reading data from the file, the program have an interface asks the user to choose 
-one of the following options:
+(the user specifies the file name as an argument) one at a time and inserts them into the binary serach tree. 
+The binary search tree is implemented using children pointer implementation. After reading data from the file, 
+the program have an interface asks the user to choose one of the following options:
 
 1- Insert (to insert a new element to the BST)
 2- DeleteMin (delete the minimum element in the BST)
