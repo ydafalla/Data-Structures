@@ -1,1 +1,10 @@
 
+The goal of this project is to implement an open hash table with chaining using a doubly linked list. Data are to be read from
+a file (data.txt). The first element of the file is the size of the hash table. The rest of the file contains the strings
+that should be inserted into the hash table seperated by a space. After building the structure the program asks the user to 
+choose one of the following options:
+1- Insert (inserts x to the hash table when it's not found. Insertion must be done at the beginning of the chain.)
+2- Delete (deletes x from the hash table)
+3- Find (checks whether x is in the hash table)
+4- Print (print out all the elements of the hash table)
+5- Exit
