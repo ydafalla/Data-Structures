@@ -1,0 +1,11 @@
+The goal of this project is to implement the Max-Leftist Heap using the pointer based implementation. The program reads the 
+integer numbers from a data file (data.txt) and inserts each number to the Max-Leftist Heap. After reading the data from the file
+the program displays an application interface with the following options:
+ 
+ 1- Insert (insert a user entered element to the leftist heap)
+ 2- DeleteMax (deletes the maximum element from the leftist heap)
+ 3- PreOrder (prints the elements of the leftist heap using preorder traversal)
+ 4- InOrder (prints the elements of the leftist heap using inorder traversal)
+ 5- PostOrder (prints the elements of the leftist heap using postorder traversal)
+ 6- LevelOrder (prints the elementos the leftist heap using Levelorder traversal)
+ 7- Exit
