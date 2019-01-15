@@ -1,0 +1,15 @@
+//This is probably the hardest data structure i have to implment
+
+The goal of this project to implement the 2-3 tree. The programs reads integer numbers from a data file (data.txt) and inserts
+them one at a time into a 2-3 tree. Duplicate elements are not allowed. After reading the data from the file the program displays
+an application interface that ask the user to choose one of the following options:
+
+1- Insert (insert a user specified input to the 2-3 tree)
+2- DeleteMin (delete the smallest element from the 2-3 tree)
+3- DeleteMax (delete the max element from the 2-3 tree)
+4- FindMin (prints the minimum element of the 2-3 tree)
+5- FindMax (prints the maximum element of the 2-3 tree)
+6- Find (searches for a user specified input in the 2-3 tree and prints a message according to whether the element was found or not)
+7- Delete (delete a user specified input from the 2-3 tree)
+8- LevelOrder (prints the leaf elements of the 2-3 tree from left to right)
+9- Exit (exits the application)
