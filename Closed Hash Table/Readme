@@ -1,0 +1,11 @@
+The goal of this project is to implement two closed hash tables with different open addressing collision resolution 
+schemes (Quadratic probing and Double Hashing). The number of buckets in each hash table is considered to be 53. The data
+inserted to the two hash tables is integers and is to be read from a file (data.txt). Duplicate elements are not allowed. The 
+load factor of the table should be printed after each insert and delete operation. After reading the data the program asks the 
+user to choose one of the following options:
+
+1- Insert
+2- Delete
+3- Find
+4- Print
+5- Exit
