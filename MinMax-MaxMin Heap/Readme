@@ -11,4 +11,5 @@ Maxmin heap. After insertion of the elements the an application interace will be
 7- Exit
 
 To run the program execute the following command in the terminal after you make the file
-./output (minmax or maxmin)
+./output minmax (for minmax heap)
+./output maxmin (for maxmin heap)
