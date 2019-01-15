@@ -1,1 +1,11 @@
 
+The goal of this project is to implement a doubly linked list. The program is expected to read in the numbers from a 
+data file (data.txt) of integers and insert them to the end of the list. Duplicate elements are allowed.
+After inserting the numbers the program display an interface where the user can pick one of the following options:
+1- Insert
+2- Delete
+3- Find
+4- Print
+5- Reverse List
+6- Reverse Print
+7 Exit
