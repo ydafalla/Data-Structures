@@ -1,1 +1,11 @@
 
+The goal of this project is to write code for a pointer-based implementation of Binomial Queue. Numbers are read from a data file (data.txt) of integers and
+each number was inserted into a of Binomial Queue.
+
+ After that, your program should have a simple menu like this:
+
+ 1-Insert: Inserts an element x to the Binomial Queue
+ 2-Deletemin: Deletes the minimum element of the binomail queue
+ 3-Findmin: Prints the minimum element in the binomial queue
+ 4-Print: Prints the different binomail trees that constitutes the binomial queue
+ 
